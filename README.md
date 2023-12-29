@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ori</h1>
-<h3 align="center">Hobbies: for the past 10 years i've been boxing and going to the Gym Fun Fact: I've been a Web Developer for 3 years 👩‍💻</h3>
+<h3 align="center">Hobbies: for the past 10 years i've been boxing and going to the Gym</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkaplan10&label=Profile%20views&color=0e75b6&style=flat" alt="mrkaplan10" /> </p>
 
 <p align="left"> <a href="https://twitter.com/orikaplano" target="blank"><img src="https://img.shields.io/twitter/follow/orikaplano?logo=twitter&style=for-the-badge" alt="orikaplano" /></a> </p>
 
 - 🔭 I’m currently working on **Learning a new language.**
+
+- 🏭Fun Fact [I've been a Web Developer for 3 years 👩‍💻](I've been a Web Developer for 3 years 👩‍💻)
+
+- 🏓Hobbies [for the past 10 years i've been boxing and going to the Gym](for the past 10 years i've been boxing and going to the Gym)
 
 - 💬 Ask me about **Anything you want**
 
